@@ -1,0 +1,25 @@
+  .button {
+    background-color: #f9f9f9; /* Green */
+    border: none;
+    color: white;
+    padding: 30px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 610px 715px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+   
+body  { 
+background: url("Web Site/Web Site/MyComp-master/succeedd/img/BGtest.jpg");
+    background-size: 1000px 700px;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+}
